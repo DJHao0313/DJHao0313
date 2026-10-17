@@ -1,17 +1,27 @@
-## Hi there 👋
+<div align="center">
+DJHao0313
+<sub>SICHUAN UNIVERSITY · LEARNING IN PUBLIC</sub>
 
-<!--
-**DJHao0313/DJHao0313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<sub>2818257880@qq.com · github</sub>
 
-Here are some ideas to get you started:
-- I'm form SiChuan University.
-- I'm totally a beginner, but I'm trying hard studying and I believe I'll change this page one year later.
-- 🔭 I’m currently working on basic coding...
-- 🌱 I’m currently learning algorithm.
-- 👯 I’m looking to collaborate on myself.
-- 🤔 I’m looking for help with a new friend.
-- 💬 Ask me about (I don't know anything.)
-- 📫 How to reach me: 2818257880@qq.com
-- 😄 Pronouns: He.
-- ⚡ Favorite sentence: Attension is all you need.
--->
+</div>
+Status
+I am a beginner.
+
+I am learning how to code, one algorithm at a time. I do not have results to show yet.
+
+This page is not a résumé. It is a promise.
+
+Come back in October 2027. I will have something here.
+
+Now
+Learning — algorithms and data structures.
+Writing — small programs, mostly to understand things.
+Reading — Attention Is All You Need.
+Results
+<sub>RESERVED · OCTOBER 2027</sub>
+
+Contact
+2818257880@qq.com · github.com/DJHao0313
+
+<sub>Last updated: October 2026 · Next update: October 2027</sub>
